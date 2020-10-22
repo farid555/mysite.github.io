@@ -61,7 +61,16 @@ body {
   padding: 1em 1em;
   margin: 0 auto;
   max-width: 50em;
-  color: rgb(16, 190, 243);
+  color: #5D6D7E;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+
+}
+.para{
+  line-height: 1.5;
+  padding: 1em 1em;
+  margin: 0 auto;
+  max-width: 50em;
+  color: #3498DB;
   font-family: 'Helvetica', 'Arial', sans-serif;
 
 }
